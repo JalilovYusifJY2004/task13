@@ -111,7 +111,7 @@
 
         protected override double CalculateAverageSpeed()
         {
-            return 15; 
+            return ; 
         }
 
         public override void GetInfo()
