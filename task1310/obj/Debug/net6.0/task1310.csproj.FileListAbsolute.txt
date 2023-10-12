@@ -1,0 +1,14 @@
+C:\Users\Zeynal\Pictures\task1310\bin\Debug\net6.0\task1310.exe
+C:\Users\Zeynal\Pictures\task1310\bin\Debug\net6.0\task1310.deps.json
+C:\Users\Zeynal\Pictures\task1310\bin\Debug\net6.0\task1310.runtimeconfig.json
+C:\Users\Zeynal\Pictures\task1310\bin\Debug\net6.0\task1310.dll
+C:\Users\Zeynal\Pictures\task1310\bin\Debug\net6.0\task1310.pdb
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.AssemblyInfoInputs.cache
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.AssemblyInfo.cs
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.csproj.CoreCompileInputs.cache
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.dll
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\refint\task1310.dll
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.pdb
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\task1310.genruntimeconfig.cache
+C:\Users\Zeynal\Pictures\task1310\obj\Debug\net6.0\ref\task1310.dll
